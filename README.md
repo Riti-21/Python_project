@@ -1,3 +1,4 @@
 # Python_project
 
-Billing Project
+one is Billing Project
+second is expenditure system with GUI
